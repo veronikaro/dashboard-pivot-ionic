@@ -1,7 +1,6 @@
-# Flexmonster Pivot Table & Charts integration with Ionic framework and React
+# Interactive reporting dashboard with Ionic, React and Flexmonster
 
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
-Website: www.flexmonster.com
 
 ## Flexmonster Pivot Table & Charts
 
