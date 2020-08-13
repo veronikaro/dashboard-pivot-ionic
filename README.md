@@ -2,7 +2,7 @@
 
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 
-This repository holds the source code for a simple [Ionic React](https://ionicframework.com/docs/react) and Flexmonster Pivot Table & Charts project:
+This repository holds the source code for a simple [Ionic React](https://ionicframework.com/docs/react) and [Flexmonster Pivot Table & Charts project](https://www.flexmonster.com/?r=dz8_git):
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -27,4 +27,4 @@ npm run start
 ```
 
 ## Usage <a id="usage"></a>
-For details on integration, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
+For details on integration, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/?r=dz8_git) tutorial.
