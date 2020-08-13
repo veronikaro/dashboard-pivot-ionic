@@ -2,10 +2,6 @@
 
 [![Flexmonster Pivot Table & Charts](https://www.flexmonster.com/fm_uploads/2020/06/GitHub_fm.png)](https://flexmonster.com)
 
-## Flexmonster Pivot Table & Charts
-
-Flexmonster Pivot is a powerful JavaScript tool for interactive web reporting. It allows you to visualize and analyze data from JSON, CSV, SQL, NoSQL, Elasticsearch, and OLAP data sources fast and conveniently. Flexmonster is designed to integrate seamlessly with any client-side framework and can be easily embedded into your application.
-
 This repository holds the source code for a simple [Ionic React](https://ionicframework.com/docs/react) and Flexmonster Pivot Table & Charts project:
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
