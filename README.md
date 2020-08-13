@@ -27,4 +27,4 @@ npm run start
 ```
 
 ## Usage <a id="usage"></a>
-For details on usage, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
+For details on integration, refer to the [Flexmonster integration with Ionic](https://www.flexmonster.com/doc/integration-with-ionic/) tutorial.
